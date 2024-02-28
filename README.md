@@ -15,4 +15,3 @@
 
 ---
 
-If you run into any questions/bug/error please reach out to me at rgs2151@columbia.edu. (I'll fix it asap!)
